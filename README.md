@@ -1,2 +1,2 @@
-# Eco
+# Econ
 About economics
